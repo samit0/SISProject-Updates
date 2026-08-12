@@ -1,0 +1,19 @@
+/*{
+  "ConnectionStrings": {
+    "Conexion": "Server=192.168.18.103;Database=Drogamed;User ID=sam;Password=sa;TrustServerCertificate=True;"
+  },
+  "ApisPeruSettings": {
+    "Token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InNhbXFqMDdAZ21haWwuY29tIn0.eGzkSwkdRphgELti2LFKnn8dei_tG-68ew-FAfNsYdM"
+  }
+}*/
+
+{
+  "ConnectionStrings": {
+    "Conexion": "Server=192.168.18.84;Database=Drogamed;User ID=sa;Password=Drogamed123;TrustServerCertificate=True;"
+  },
+  "ApisPeruSettings": {
+    "Token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InNhbXFqMDdAZ21haWwuY29tIn0.eGzkSwkdRphgELti2LFKnn8dei_tG-68ew-FAfNsYdM"
+  }
+} 
+  
+
