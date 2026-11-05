@@ -1,5 +1,0 @@
-{
-  "ConnectionStrings": {
-    "Conexion": "Server=PCHOME\\SQLEXPRESS;Database=Drogamed;User ID=sam;Password=sa;TrustServerCertificate=True;"
-  }
-}
